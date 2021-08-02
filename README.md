@@ -1,5 +1,5 @@
-- 👋 Hi there
-Hi , my name is Sneha Baser . I am student at Banasthali Vidyapith . I am passionate coder and have experience in Data Structures , Algorithms , Full Stack developement , android developement.
+- 👋 Hi Folks
+  My name is Sneha Baser . I am student at Banasthali Vidyapith . I am passionate coder and have experience in Data Structures , Algorithms , Full Stack developement , android developement.
 - 👀 I’m currently looking for internship opportunities.
 - 🌱 I’m currently learning FullStack developement.
 - 💞️ I’m looking to collaborate on projects that help me to gain new skills , use my skills in an efficient and pragmatic way.
