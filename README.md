@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Baser</h1>
-<h3 align="center">A Highly passionate CSE undergrad from India</h3>
+<h3 align="center">A Highly passionate CSE undergrad from Banasthali Vidyapith , who is passionate about technologies💻 and obsessed with the idea of improving herself and wants to grow and excel in it🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-baser&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-baser" /> </p>
 
