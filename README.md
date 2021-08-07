@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-baser&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-baser" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-baser" alt="sneha-baser" /></a> </p>
-
 - 🌱 I’m currently learning **FullStack Developement**
 
 - 👯 I’m looking to collaborate on **projects that help me to gain new skills and can able to utilize my skills in an efficient and pragmatic way.**
