@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects that help me to gain new skills and can able to utilize my skills in an efficient and pragmatic way.**
 
-- 👨‍💻 Some of my projects are available at [https://sneha-baser.github.io/Sneha-sPortfolio/dist/](https://sneha-baser.github.io/Sneha-sPortfolio/dist/)
+
 
 - 📫 How to reach me **snehabaser1603@gmail.com**
 
